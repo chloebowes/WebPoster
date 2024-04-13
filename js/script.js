@@ -1,7 +1,7 @@
 let pausePixels = 1000;     //this is how long you scroll as things are paused
 let sectionHeight = $(window).width() > 768 ? 400 : 600; 
 
-
+console.log("testing")
 // Basically the way skrollr works is by creating custom attributes to the elements you want to manipulate
 // the details are here: https://github.com/Prinzhorn/skrollr?tab=readme-ov-file
 
